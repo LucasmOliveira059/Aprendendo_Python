@@ -1,4 +1,4 @@
-#Jodo de cartas Milestone project 2 do curso de PAITOM!
+#Jogo de cartas Milestone project 2 do curso de PAITOM!
 
 #Criando a Classe Card que precisará de um naipe, a carta e o valor
 # Os valores das cartas foram listados como variáveis globais
